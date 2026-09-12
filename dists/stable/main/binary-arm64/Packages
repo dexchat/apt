@@ -1,0 +1,16 @@
+Package: dexchat
+Version: 0.1.5~test
+Architecture: arm64
+Maintainer: Leonardo Essia <leonardo@essia.dev>
+Installed-Size: 7360
+Conflicts: dex
+Homepage: https://dexchat.org
+Priority: optional
+Section: net
+Filename: pool/main/d/dexchat/dexchat_0.1.5~test_arm64.deb
+Size: 2858508
+SHA256: 0ca0a9db25bf36dabd62b88ff6c78e84ea56dbf57285dc9eaeeb941e8b8c46ee
+SHA1: 9a78fe02f7f2150a90ef5be81276cf4249451f36
+MD5sum: e307cac59f2168035929b92a78461ec3
+Description: A modern and fast terminal IRC client
+

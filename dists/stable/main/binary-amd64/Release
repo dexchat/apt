@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: DexChat
+Label: DexChat
+Architecture: amd64
+Description: Official APT repository for DexChat
