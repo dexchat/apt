@@ -5,35 +5,35 @@ Origin: DexChat
 Label: DexChat
 Suite: stable
 Codename: stable
-Date: Sat, 12 Sep 2026 17:42:55 UTC
+Date: Sun, 13 Sep 2026 00:09:18 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Official APT repository for DexChat
 MD5Sum:
- 75f8dd443f379f316f4a0d5e5839ccb1 479 main/binary-amd64/Packages
- 4a29e2546c19b586d32b139d23762d11 360 main/binary-amd64/Packages.gz
+ c5ad5bc93933a7a0da46777abcb2235c 489 main/binary-amd64/Packages
+ ed041b1f11f5b75727693a6cd8e3c248 366 main/binary-amd64/Packages.gz
  5dc20400993971aa85ad8fe57e0e9964 132 main/binary-amd64/Release
- 5b0e407562533801d972c5c70ac59cb8 479 main/binary-arm64/Packages
- de009362c471026ec4314f2ab8edc821 360 main/binary-arm64/Packages.gz
+ 336e12ec3199f9383e2d79593fd0b4d7 489 main/binary-arm64/Packages
+ 6c926951693a79329582ac5abcfc4c43 367 main/binary-arm64/Packages.gz
  a57e606229d973a817eb864c1168e7de 132 main/binary-arm64/Release
 SHA1:
- 32d3eb585e525b68fc31c3367f3cc734efdee2df 479 main/binary-amd64/Packages
- 9194414f8a8d4078550b76897dc3db765cb4ca7a 360 main/binary-amd64/Packages.gz
+ 8a91ccdeaeccc38ba1abace821e341f73c0ee98a 489 main/binary-amd64/Packages
+ db01a501f073794a97049ac79ae8835a4e7c5621 366 main/binary-amd64/Packages.gz
  21a797279e1a63013762d47e7139c2054227eec3 132 main/binary-amd64/Release
- deae1f6213ed2307a3f5d34cc55ac5460d1d4680 479 main/binary-arm64/Packages
- 2394b53cbfdc51b0ca5fab06fe4e0370980d21b0 360 main/binary-arm64/Packages.gz
+ cbc2be582baadabccb3fce1a649a35edf6a456f1 489 main/binary-arm64/Packages
+ f039c53126d457ec080331ba34a077728dfbf2b5 367 main/binary-arm64/Packages.gz
  86d85d94f2f2328e755969e7c80e6df1545a946e 132 main/binary-arm64/Release
 SHA256:
- 9be42b5a8fcd9a4c438025913bae49f553a7cfd85cb8252d66ec5e8743217990 479 main/binary-amd64/Packages
- 1fe2b0cd60ce87b40b12cd21aca15e18bd0a0c0a9de1fd5fcadb7480f5e667b4 360 main/binary-amd64/Packages.gz
+ 5f378a7be6863521f059e1fa2a1cf2d2efe2231a029d243340bbf07b9ce09d72 489 main/binary-amd64/Packages
+ 414a44bf6cf738733e7cbe1ebed1a9091ec6e8407535b1bfc85272fcee7a99a1 366 main/binary-amd64/Packages.gz
  2da3eee3926e5ba082103217d741a8c49e28681431aec54e3b4f1707ed025df8 132 main/binary-amd64/Release
- eb91ad4a2771df7dc584c14becaaf7a6ba96724433f296acda068955c5030e6e 479 main/binary-arm64/Packages
- 429d108a46cea6237065f583b6219a0ddfe2ea1753be6abfad05289f34edc31b 360 main/binary-arm64/Packages.gz
+ e6173438d9cc10abf68c9ad983fcf57659c51a22bfdc2633e66bb34e49f531cd 489 main/binary-arm64/Packages
+ dd2b19e6dd47e4f36260745f78b5367a483870b22e8d2ebb12dc82b49b72736e 367 main/binary-arm64/Packages.gz
  95c8beab42a2901b7c069b50ea2f48653d12dc98b7173a827737697b940a6636 132 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTwKigyDWLma5525Q+L/9c2o8MnmAUCaqWPHwAKCRCL/9c2o8Mn
-mNahAQCRQWZuPBB8KMzJ8LIyV8gblipYi3cqpKr0R1jzoBFASQEAmCX5cWqdUaik
-VCqBkHsLoiuh3sYD3fGLhW/Tjc8YCwE=
-=7auM
+iHUEARYKAB0WIQTwKigyDWLma5525Q+L/9c2o8MnmAUCaqXprgAKCRCL/9c2o8Mn
+mBl+AP9decP8rUSkN7exAFGgZQHdGrWjSHX2CTh0hA4f4TBp5gEA2AiXSrJ9Bw36
+xQf9WnPw1ODxLLZ8ea1Q08hgRZayWgw=
+=U9Jh
 -----END PGP SIGNATURE-----
