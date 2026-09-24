@@ -2,28 +2,28 @@ Origin: DexChat
 Label: DexChat
 Suite: stable
 Codename: stable
-Date: Sun, 20 Sep 2026 02:36:55 UTC
+Date: Thu, 24 Sep 2026 02:01:20 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Official APT repository for DexChat
 MD5Sum:
- 8f180323ae7b7327a443620958ede728 479 main/binary-amd64/Packages
- da9dd36b6260311a04be1da5be8cc651 360 main/binary-amd64/Packages.gz
+ ba09809c9f67c74399ec692b7e08e585 479 main/binary-amd64/Packages
+ bea1ad0ba970521440f3ae61e3f4f35d 361 main/binary-amd64/Packages.gz
  5dc20400993971aa85ad8fe57e0e9964 132 main/binary-amd64/Release
- e48390bb7ac5c70eebe6b1f5ca3cecbb 479 main/binary-arm64/Packages
- fd5be51526037504e24b200881314233 362 main/binary-arm64/Packages.gz
+ 379ad5b12f93f37768844ac62f275400 479 main/binary-arm64/Packages
+ 2106b5f29e2bb7c3bddcf3ffccc918f3 362 main/binary-arm64/Packages.gz
  a57e606229d973a817eb864c1168e7de 132 main/binary-arm64/Release
 SHA1:
- d6bf420223a39cf6a41406f720a309a21a6a5b49 479 main/binary-amd64/Packages
- 8e94125bf16f0eb3840902fddff27b3eeaff45f6 360 main/binary-amd64/Packages.gz
+ dd27e98f1c86d2c3f3e2c5d0d6a57a9c99307ec4 479 main/binary-amd64/Packages
+ 038d5b77df5cccbfcbeb5a266570cc217d6877cf 361 main/binary-amd64/Packages.gz
  21a797279e1a63013762d47e7139c2054227eec3 132 main/binary-amd64/Release
- 034f35b7f92851ed8a10ef6b3270a49da48875e9 479 main/binary-arm64/Packages
- 545ea16bb366f2058a45d0f7ec69f5442afc6e2d 362 main/binary-arm64/Packages.gz
+ 7d4246819a371481f4adef4dbeac38f1d7a2c5c5 479 main/binary-arm64/Packages
+ 4484417ba81dab851f5cf0d2869c7ad40f8f7739 362 main/binary-arm64/Packages.gz
  86d85d94f2f2328e755969e7c80e6df1545a946e 132 main/binary-arm64/Release
 SHA256:
- 26acf63a900d43c82af98c42766169a6c525959ebd50dba97b3c6231c785f82a 479 main/binary-amd64/Packages
- e047a4ae3b6c8959b1a874988d8b3cb591c854a10ba770ff3988d9d3ce139241 360 main/binary-amd64/Packages.gz
+ 7d950e16db0004b89bba2cef740f4e7285e14dc049885bcd554489158f877018 479 main/binary-amd64/Packages
+ 7ab917aa31d0ecfbd3deab4d4fb22f1a605ce9e55ca11044cac508a14f0951d3 361 main/binary-amd64/Packages.gz
  2da3eee3926e5ba082103217d741a8c49e28681431aec54e3b4f1707ed025df8 132 main/binary-amd64/Release
- b2a411fa04e26210e43ce9595b2d993d8d096b3ca5f659ea24a3839021972f95 479 main/binary-arm64/Packages
- dcf8d65818c653c964d0ef9ad3fb023d669c11e2145c7c2cb64e5ee6f4402734 362 main/binary-arm64/Packages.gz
+ a3a65b19e9d1bef84025aae2d250bf78fc2e2ed829474ae24e3e55ed51c59bd1 479 main/binary-arm64/Packages
+ 5c3e4f669e7cf82d30f04add70bc102fae2dfeaf3b5167c52f37f675bbacdf9e 362 main/binary-arm64/Packages.gz
  95c8beab42a2901b7c069b50ea2f48653d12dc98b7173a827737697b940a6636 132 main/binary-arm64/Release
